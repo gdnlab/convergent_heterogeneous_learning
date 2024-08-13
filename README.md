@@ -1,4 +1,6 @@
-In this repository, we present the source code for the experiments of our Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games paper that is available in arXiv. Please use the following BibTeX entry to cite our work:
+In this repository, we present the source code for the experiments of our [Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games](https://arxiv.org/abs/2311.00778) paper that is available in arXiv. 
+
+Please use the following BibTeX entry to cite our work:
 
 ```bibtex
 @misc{arslantas2023convergenceheterogeneouslearningdynamics,
