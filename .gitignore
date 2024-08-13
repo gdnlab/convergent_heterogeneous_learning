@@ -1,0 +1,6 @@
+_*
+logs/
+plots/
+.vscode
+.DS_Store
+*.out
